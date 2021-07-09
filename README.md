@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 -->
 
 -I’m currently learning Docker and Django.
-
+<!-- 
 ### Top Languages
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ameerezae&layout=compact)
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ameerezae&layout=compact) -->
 
 
 ### Social
