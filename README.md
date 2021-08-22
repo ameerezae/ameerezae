@@ -15,13 +15,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
--I’m currently learning Docker and Django.
+-I’m currently learning Docker.
 <!-- 
 ### Top Languages
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ameerezae&layout=compact) -->
 
 
 ### Social
+<a href="https://www.linkedin.com/in/amir-rezaei-42b930219" target="_blank">
+ <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&labelColor=0077b5&color=0077b5&logoColor=white&label=%20&style=flat-square">
+</a>
 <a href="https://stackoverflow.com/users/12771510/amir-rezaei" target="_blank">
  <img src="https://img.shields.io/static/v1?message=StackOverflow&logo=stackoverflow&labelColor=5c5c5c&color=ffa500&logoColor=white&label=%20&style=flat-square">
 </a>
